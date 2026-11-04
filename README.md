@@ -1,1 +1,1 @@
-# Introducao_cdiaPrimeiro semestre do curso de CDIA.
+# Primeiro semestre do curso de CDIA.
